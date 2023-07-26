@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/my_primary"
-    android:padding="16dp"
+    android:padding="19dp"
     tools:context=".NoteDetailsActivity">
 
     <RelativeLayout
@@ -24,7 +24,7 @@
 
         <ImageButton
             android:layout_width="36dp"
-            android:layout_height="36dp"
+            android:layout_height="37dp"
             android:id="@+id/save_note_btn"
             android:src="@drawable/ic_baseline_done_24"
             android:layout_alignParentEnd="true"
@@ -43,7 +43,7 @@
         android:orientation="vertical"
         android:id="@+id/linear2"
         android:padding="16dp"
-        android:layout_marginVertical="26dp"
+        android:layout_marginVertical="29dp"
         android:backgroundTint="@color/white"
         android:background="@drawable/rounded_corner">
 
