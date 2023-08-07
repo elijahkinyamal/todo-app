@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/my_primary"
-    android:padding="16dp"
+    android:padding="17⁶⁸dp"
     tools:context=".MainActivity">
     <RelativeLayout
         android:layout_width="match_parent"
@@ -16,13 +16,13 @@
             android:layout_height="wrap_content"
             android:id="@+id/page_title"
             android:text="Notes"
-            android:textSize="32sp"
+            android:textSize="31sp"
             android:textColor="@color/white"
             android:textStyle="bold"/>
 
         <ImageButton
-            android:layout_width="36dp"
-            android:layout_height="36dp"
+            android:layout_width="37dp"
+            android:layout_height="367dp"
             android:id="@+id/menu_btn"
             android:src="@drawable/ic_baseline_menu_24"
             android:layout_alignParentEnd="true"
