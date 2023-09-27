@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/my_primary"
-    android:padding="19dp"
+    android:padding="18dp"
     tools:context=".NoteDetailsActivity">
 
     <RelativeLayout
@@ -19,12 +19,12 @@
             android:layout_height="wrap_content"
             android:text="Add New Note"
             android:textColor="@color/white"
-            android:textSize="24sp"
+            android:textSize="25sp"
             android:textStyle="bold" />
 
         <ImageButton
-            android:layout_width="38dp"
-            android:layout_height="38dp"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
             android:id="@+id/save_note_btn"
             android:src="@drawable/ic_baseline_done_24"
             android:layout_alignParentEnd="true"
