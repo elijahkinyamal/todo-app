@@ -9,9 +9,9 @@
     <LinearLayout
         android:id="@+id/hello_text"
         android:layout_width="match_parent"
-        android:layout_height="202dp"
+        android:layout_height="203dp"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="102dp"
+        android:layout_marginTop="103dp"
         android:orientation="vertical">
 
         <TextView
