@@ -7,14 +7,14 @@
     tools:context=".MainActivity2"
     android:orientation = "vertical"
     android:gravity="center_horizontal"
-    android:padding="12dp">
+    android:padding="13dp">
 
     <EditText
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Your Task"
-        android:layout_marginBottom="22dp"
+        android:layout_marginBottom="23dp"
         />
     <TimePicker
         android:id="@+id/timePicker"
