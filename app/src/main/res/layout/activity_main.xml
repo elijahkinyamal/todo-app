@@ -21,8 +21,8 @@
             android:textStyle="bold"/>
 
         <ImageButton
-            android:layout_width="38dp"
-            android:layout_height="366dp"
+            android:layout_width="39dp"
+            android:layout_height="367dp"
             android:id="@+id/menu_btn"
             android:src="@drawable/ic_baseline_menu_24"
             android:layout_alignParentEnd="true"
