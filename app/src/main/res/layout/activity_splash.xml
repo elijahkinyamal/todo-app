@@ -17,9 +17,9 @@
         android:textStyle="bold"
         android:gravity="center"/>
     <ProgressBar
-        android:layout_width="29dp"
-        android:layout_height="29dp"
-        android:layout_margin="19dp"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_margin="18dp"
         android:indeterminateTint="@color/white"/>
         
 
