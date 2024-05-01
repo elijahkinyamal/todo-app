@@ -19,12 +19,12 @@
             android:layout_height="wrap_content"
             android:text="Add New Note"
             android:textColor="@color/white"
-            android:textSize="29sp"
+            android:textSize="28sp"
             android:textStyle="bold" />
 
         <ImageButton
-            android:layout_width="38dp"
-            android:layout_height="38dp"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
             android:id="@+id/save_note_btn"
             android:src="@drawable/ic_baseline_done_24"
             android:layout_alignParentEnd="true"
@@ -52,10 +52,10 @@
             android:layout_height="wrap_content"
             android:id="@+id/notes_title_text"
             android:hint="Title"
-            android:textSize="23sp"
+            android:textSize="24sp"
             android:textStyle="bold"
             android:layout_marginVertical="8dp"
-            android:padding="33dp"
+            android:padding="34dp"
             android:textColor="@color/black"/>
         <EditText
             android:layout_width="match_parent"
@@ -64,9 +64,9 @@
             android:hint="Content"
             android:minLines="18"
             android:gravity="top"
-            android:textSize="21sp"
+            android:textSize="23sp"
             android:layout_marginVertical="8dp"
-            android:padding="12dp"
+            android:padding="13dp"
             android:textColor="@color/black"/>
 
 
@@ -82,7 +82,7 @@
         android:layout_alignParentBottom="true"
         android:background="@color/my_primary"
         android:gravity="center"
-        android:textSize="18sp"
+        android:textSize="19sp"
         android:visibility="gone"
         android:textColor="@color/white"/>
 
@@ -95,7 +95,7 @@
         android:background="@color/my_primary"
         android:gravity="center"
 
-        android:textSize="18sp"
+        android:textSize="19sp"
         android:visibility="gone"
         android:textColor="@color/white"/>
 
