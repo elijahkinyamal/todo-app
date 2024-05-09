@@ -7,31 +7,31 @@
     tools:context=".MainActivity2"
     android:orientation = "vertical"
     android:gravity="center_horizontal"
-    android:padding="15dp">
+    android:padding="16dp">
 
     <EditText
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Your Task"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="26dp"
         />
     <TimePicker
         android:id="@+id/timePicker"
-        android:layout_width="302dp"
-        android:layout_height="342dp" />
+        android:layout_width="303dp"
+        android:layout_height="345dp" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
         android:gravity="center_horizontal"
-        android:layout_marginTop="32dp">
+        android:layout_marginTop="34dp">
         <Button
             android:id="@+id/setBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Set"
-            android:layout_marginRight="21dp"
+            android:layout_marginRight="23dp"
             />
         <Button
             android:id="@+id/cancelBtn"
