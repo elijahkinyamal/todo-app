@@ -9,21 +9,21 @@
     <LinearLayout
         android:id="@+id/hello_text"
         android:layout_width="match_parent"
-        android:layout_height="205dp"
+        android:layout_height="206dp"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="105dp"
+        android:layout_marginTop="106dp"
         android:orientation="vertical">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginVertical="10dp"
-            android:layout_marginStart="40
+            android:layout_marginStart="42
             dp"
-            android:layout_marginTop="203dp"
+            android:layout_marginTop="204dp"
             android:text="Hello"
             android:textColor="@color/black"
-            android:textSize="33sp"
+            android:textSize="35sp"
             android:textStyle="bold" />
 
         <TextView
